@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    images: {
+        domains: ['cdn.imagin.studio']
+    },
+    experimental: {
+        scrollRestoration: true
+    }
+};
 
 export default nextConfig;
