@@ -22,8 +22,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## TO DO
 
-[] 
-[]
+[] some stuff
+[] some more stuff
 
 ## Deploy on Vercel
 
